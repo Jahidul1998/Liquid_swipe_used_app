@@ -2,7 +2,7 @@
 
 Liquid swipe application with full customizable drawer with govt logo.
 
-<img src="./liquid-swipe/gif" width="250">
+<img src="./liquid-swipe.gif" width="250">
 
 ## Getting Started
 
